@@ -1,1 +1,9 @@
+# Sistema
+.DS_Store
+Thumbs.db
 
+# Config VSCode
+.vscode/
+
+# Cache geral
+*.log
